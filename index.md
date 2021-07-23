@@ -1,22 +1,28 @@
-## Welcome to GitHub Pages
+### @jiminutive_
 
-You can use the [editor on GitHub](https://github.com/jimin-huh/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+리더십, 센스 겸비, 열정! [허지민](instagram.com/jiminutive_)입니다.
+<br><br>
+빠르게 변화하는 트렌드에 맞추어<br>
+데이터 분석부터 마케팅, 디자인 등<br>
+여러 분야에 관심을 가지고 공부하고 있습니다 :-)
+<br><br>
+흰 스케치북에 그림을 그려나가듯<br>저만의 그림을 그려나가려구요 (임티)
+<br><br>
+<b>제가 궁금하신가요?</b>
 
-### Markdown
+### let me show who I am
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+클릭하면 해당 페이지로 넘어갑니다 (임티)
 
-```markdown
-Syntax highlighted code block
+- 기본 프로필
+- 수상 경력
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- (프로젝트) Monde Des Chats
+- (프로젝트) 넷플릭스 분석
+- (프로젝트) 고양이 mbti
+- (프로젝트, 진행중) 레트로 게임
 
 1. Numbered
 2. List
